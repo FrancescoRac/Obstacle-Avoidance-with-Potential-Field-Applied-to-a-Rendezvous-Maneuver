@@ -1,0 +1,8 @@
+Body Frame:
+	The body frame is a reference frame, fixed with the aircraft. It is defined as follows:
+	
+	xB-axis: always points forward towards the nose of the aircraft.
+	yB-axis: always points to the right wing.
+	zB-axis: always points down towards the feet of the pilot.
+	
+The velocity of a 
